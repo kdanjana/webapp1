@@ -1,0 +1,4 @@
+#on ur docker host
+$wget <url>
+$unzip abc.zip
+$tar -czvf app.tgz .
